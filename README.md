@@ -1,4 +1,4 @@
-Apigility for Doctrine
+  Apigility for Doctrine
 ==============================
 
 [![Build status](https://api.travis-ci.org/zfcampus/zf-apigility-doctrine.svg)](http://travis-ci.org/zfcampus/zf-apigility-doctrine)
@@ -18,7 +18,7 @@ $ php composer.phar require zfcampus/zf-apigility-doctrine:dev-master
 This library provides two modules.  The first, ZF\Apigility\Doctrine\Server provides
 the classes to serve data created by the second, ZF\Apigility\Doctrine\Admin.  The
 Admin module is used to create apigility resources and the Server serves those
-created resoruces.  Generally you would include Admin in your development.config.php
+created resoruces.  Generalsly you would include Admin in your development.config.php
 and Server in your application.config.php
 
 
